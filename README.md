@@ -1,6 +1,11 @@
 # AMR Clinical Intelligence — BioLinkBERT Edition
 
-Antimicrobial resistance (AMR) prediction system using **michiyasunaga/BioLinkBERT-base**, a 110M parameter BERT model pre-trained on PubMed with citation links.
+Antimicrobial resistance (AMR) prediction system using **michiyasunaga/BioLinkBERT-base**, a 110M parameter BERT model pre-trained on PubMed with citation links. 
+
+## amr-biolinkbert.ipynb
+This Files contain Sample Run file in python we have run in kaggle.
+## Dataset link in Kaggle
+We Use the Dataset from Kaggle- https://www.kaggle.com/datasets/vihaankulkarni/antimicrobial-resistance-dataset
 
 ## Why BioLinkBERT for AMR?
 
